@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-scroll";
 import ExerciseDiscovery from "../assets/portfolio/ExerciseDiscoveryThumbnail.jpg";
 import ComingSoon1 from "../assets/portfolio/soon.jpg";
 import ComingSoon2 from "../assets/portfolio/soon.jpg";
