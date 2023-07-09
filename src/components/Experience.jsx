@@ -7,7 +7,7 @@ import reactImage from "../assets/react.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 import shopify from  "../assets/shopify logo.png"
-import mongo from "../assets/mongologo.png"
+// import mongo from "../assets/mongologo.png"
 // import nextjs from "../assets/nextjs.png";
 // import graphql from "../assets/graphql.png";
 
